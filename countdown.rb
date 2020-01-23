@@ -12,5 +12,6 @@ end
 
 def countdown(sleep)
   while number > 0 
+  puts "#{number} SECOND(S)!"
   
 end
