@@ -11,5 +11,6 @@ end
 
 
 def countdown(sleep)
+  while number > 0 
   
 end
