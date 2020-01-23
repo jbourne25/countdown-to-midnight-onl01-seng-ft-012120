@@ -18,4 +18,3 @@ while number > 0
 end
 "HAPPY NEW YEAR!"
 end 
-end
